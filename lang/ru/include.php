@@ -1,5 +1,5 @@
 <?
-$MESS ['YES'] = 'Ð”Ð°';
-$MESS ['NO'] = 'ÐÐµÑ‚';
-$MESS ['DESCRIPTION'] = 'Ð”Ð°/ÐÐµÑ‚';
+$MESS ['YES'] = 'Äà';
+$MESS ['NO'] = 'Íåò';
+$MESS ['DESCRIPTION'] = 'Äà/Íåò';
 ?>

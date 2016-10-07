@@ -1,7 +1,7 @@
 <?
-$MESS ['lxkvlvloginemail_module_name'] = 'Ð›Ð¾Ð³Ð¸Ð½ ÐºÐ°Ðº ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð°Ñ Ð¿Ð¾Ñ‡Ñ‚Ð°';
-$MESS ['lxkvlvloginemail_module_description'] = 'Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÑ‚ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð»Ð¾Ð³Ð¸Ð½Ð° Ñ‚Ð°ÐºÐ¸Ð¼ Ð¶Ðµ ÐºÐ°Ðº ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹';
-$MESS ['lxkvlvloginemail_install_title'] = 'Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ "Ð›Ð¾Ð³Ð¸Ð½ ÐºÐ°Ðº ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð°Ñ Ð¿Ð¾Ñ‡Ñ‚Ð°"';
-$MESS ['lxkvlvloginemail_uninstall_title'] = 'Ð”ÐµÐ¸Ð½ÑÑ‚Ð°Ð»Ð»ÑÑ†Ð¸Ñ Ð¼Ð¾Ð´ÑƒÐ»Ñ "Ð›Ð¾Ð³Ð¸Ð½ ÐºÐ°Ðº ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð°Ñ Ð¿Ð¾Ñ‡Ñ‚Ð°"';
-$MESS ['lxkvlvloginemail_partner_name'] = "ÐÐ»ÐµÐºÑÐµÐ¹ Ð¯ÐºÐ¾Ð²Ð»ÐµÐ²";
+$MESS ['lxkvlvloginemail_module_name'] = 'Ëîãèí êàê ýëåêòðîííàÿ ïî÷òà';
+$MESS ['lxkvlvloginemail_module_description'] = 'Óñòàíàâëèâàåò çíà÷åíèå ëîãèíà òàêèì æå êàê ýëåêòðîííîé ïî÷òû';
+$MESS ['lxkvlvloginemail_install_title'] = 'Óñòàíîâêà ìîäóëÿ "Ëîãèí êàê ýëåêòðîííàÿ ïî÷òà"';
+$MESS ['lxkvlvloginemail_uninstall_title'] = 'Äåèíñòàëëÿöèÿ ìîäóëÿ "Ëîãèí êàê ýëåêòðîííàÿ ïî÷òà"';
+$MESS ['lxkvlvloginemail_partner_name'] = "Àëåêñåé ßêîâëåâ";
 ?>
